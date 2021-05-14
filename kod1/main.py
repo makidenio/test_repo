@@ -4,4 +4,4 @@ import pandas as pd
 import numpy as np
 
 # auxiliary functions
-print('gitara siema')
+print('chuj driven development')
