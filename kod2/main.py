@@ -4,4 +4,4 @@ import pandas as pd
 import numpy as np
 
 # auxiliary functions
-print('szczala swiecie')
+print('hej hej hej mala')
